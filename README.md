@@ -1,2 +1,1 @@
-# gitLearn
-learning-git
+# learning-git
